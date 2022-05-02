@@ -26,7 +26,7 @@ pillow,
 pyttsx3,
 speech_recognition,
 
-# THE BASIC REQUIREMENTS ARE
+# The basic requirements are
 1) Speech Recognition — Speech recognition is an important feature used in house automation 
 and artificial intelligence devices. The main function of this library is it tries to understand 
 whatever the humans speak and converts the speech to text.
