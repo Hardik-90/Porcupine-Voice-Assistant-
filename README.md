@@ -44,3 +44,13 @@ operating system
 8) Web browser — This is an in-built package in python. It extracts data from the web
 9) Subprocess — This is a standard library use to process various system commands like to log 
 off or to restart your PC.
+
+# Functions Implemented : (All these functionalities can be implemented either by giving voice input or by giving user text input)
+1. Opens Camera
+2. Opens Specified site on browser
+3. Gives information about a specific topic from google
+4. Gives weather updates on a specific location
+5. Gives information about a specific topic from wikipedia
+6. Opens a particular file or folder
+
+
